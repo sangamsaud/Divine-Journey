@@ -172,11 +172,12 @@
 
 /*** Hero Header ***/
 .hero-header {
- background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/badimalikaa.jpg);  
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url("../img/gau1.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
 
 .breadcrumb-item + .breadcrumb-item::before {
     color: rgba(255, 255, 255, .5);
